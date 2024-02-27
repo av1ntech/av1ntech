@@ -9,6 +9,8 @@ I love playing computer games and at the same time I am hooked in to active spor
 
 - <b> ARIS: AN EDUCATIONAL STORY BOOK MOBILE APPLICATION USING AUGMENTED REALITY FOR PRESCHOOLERS 
 OF BEBOT CHILD CARE AND TUTORIAL CENTER (IT CAPSTONE 2023)</b>
+
+  - [FOR MORE INFO](https://github.com/av1ntech/ARIS)
   
 
 
